@@ -1,0 +1,46 @@
+body {
+    background-color: blue;
+}
+h2 {
+    text-align: center;
+    color: wheat;
+    outline: auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+img {
+    margin-top: 15px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    border: 5px;
+    transition: all;
+    border-radius: 20px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.squad {
+    margin-top: 15px;
+}
+
+.players {
+    text-align: center;
+    font-size: 20.5px;
+    color: lightsalmon;
+    height: fit-content;
+    width: fit-content;
+    justify-self: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: blanchedalmond;
+}
